@@ -1,1 +1,1 @@
-# myPortfolio2018
+# EasyCryptoCheck
