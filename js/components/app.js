@@ -952,7 +952,7 @@ var Prices = function (_Component) {
                                 _react2.default.createElement(
                                     'h3',
                                     { className: 'd-none d-md-block display-4 m-5' },
-                                    'Most Popular Crypto Coins',
+                                    'Most Popular Crypto Coins ',
                                     new Date().getFullYear(),
                                     _react2.default.createElement('hr', null)
                                 ),
