@@ -959,7 +959,8 @@ var Prices = function (_Component) {
                                 _react2.default.createElement(
                                     'h1',
                                     { className: 'd-md-none h1 m-5' },
-                                    'Most Popular Crypto Coins 2019',
+                                    'Most Popular Crypto Coins ',
+                                    new Date().getFullYear(),
                                     _react2.default.createElement('hr', null)
                                 ),
                                 _react2.default.createElement(
@@ -1867,13 +1868,15 @@ var Home = function (_Component) {
                                     _react2.default.createElement(
                                         'h3',
                                         { className: 'd-none d-md-block display-4 m-5', onClick: this.props.currencyNow },
-                                        'Most Popular Crypto Coins 2019',
+                                        'Most Popular Crypto Coins ',
+                                        new Date().getFullYear(),
                                         _react2.default.createElement('hr', null)
                                     ),
                                     _react2.default.createElement(
                                         'h1',
                                         { className: 'd-md-none h2 m-5', onClick: this.props.currencyNow },
-                                        'Most Popular Crypto Coins 2019',
+                                        'Most Popular Crypto Coins ',
+                                        new Date().getFullYear(),
                                         _react2.default.createElement('hr', null)
                                     ),
                                     _react2.default.createElement(
